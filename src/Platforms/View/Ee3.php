@@ -5,9 +5,9 @@
  * @copyright	Copyright (c) 2015, mithra62, Eric Lamb.
  * @link		http://mithra62.com/
  * @version		3.0
- * @filesource 	./mithra62/Platforms/View/Eecms.php
+ * @filesource 	./Platforms/View/Ee3.php
  */
-namespace mithra62\Platforms\View;
+namespace JaegerApp\Platforms\View;
 
 /**
  * Backup Pro - Eecms View Object
