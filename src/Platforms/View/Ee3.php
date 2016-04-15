@@ -1,18 +1,18 @@
 <?php
 /**
- * mithra62 - Jaeger
+ * Jaeger
  *
- * @copyright	Copyright (c) 2015, mithra62, Eric Lamb.
- * @link		http://mithra62.com/
- * @version		3.0
+ * @copyright	Copyright (c) 2015, mithra62
+ * @link		http://jaeger-app.com
+ * @version		1.0
  * @filesource 	./Platforms/View/Ee3.php
  */
 namespace JaegerApp\Platforms\View;
 
 /**
- * Backup Pro - Eecms View Object
+ * Jaeger - Ee3 View Object
  *
- * Contains the view helpers for ExpressionEngine
+ * Contains the view helpers for ExpressionEngine 3
  *
  * @package View
  * @author Eric Lamb <eric@mithra62.com>
